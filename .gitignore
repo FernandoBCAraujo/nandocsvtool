@@ -1,0 +1,18 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários do Streamlit
+.streamlit/config.toml
+
+# Arquivos de dados (para não subir CSVs pesados por acidente)
+*.csv
+*.txt
