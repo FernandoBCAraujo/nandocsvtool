@@ -11,7 +11,7 @@ __pycache__/
 .vscode/
 
 # Arquivos temporários do Streamlit
-.streamlit/config.toml
+#.streamlit/config.toml
 
 # Arquivos de dados (para não subir CSVs pesados por acidente)
 *.csv
